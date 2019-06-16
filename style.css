@@ -1,0 +1,11 @@
+.login{
+	
+	width: 500px;
+	height: 500px;
+	margin: auto;
+}
+
+.login input[type="text"],
+.login input[type="text"]{
+	display: block;
+}
